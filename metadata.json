@@ -1,0 +1,6 @@
+{
+  "name": "Armstrong Manor - Detective Noir 3D",
+  "description": "Juego de detectives 3D y pixel noir: investiga un misterioso asesinato en un edificio de 5 plantas, interroga sospechosos y descubre al culpable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
